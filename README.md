@@ -10,7 +10,7 @@ Deze bronnen zijn ideaal om te delen met teams of faculteiten die een nieuwe tec
 
 | AI & Ethiek Quick-Reads |
 |-----|
-| 1. [Wat is een DataLab? & Hoe werkt het?](https://github.com/HR-DATALABS/HR-DataLab-Quick-Reads/blob/main/QUICK-READS/Wat%20moet%20je%20weten%20over%20DataLabs_2024.pdf) | 
-<img align="right" width="200" height="300" src="FIGs/Wat moet je weten over DataLabs_2024.jpg">
+| 1. [Wat is een DataLab? & Hoe werkt het?](https://github.com/HR-DATALABS/HR-DataLab-Quick-Reads/blob/main/QUICK-READS/Wat%20moet%20je%20weten%20over%20DataLabs_2024.pdf) <img align="right" width="200" height="300" src="FIGs/Wat moet je weten over DataLabs_2024.jpg"> | 
+
 
 
