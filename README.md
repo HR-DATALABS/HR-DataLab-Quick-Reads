@@ -5,7 +5,7 @@ Gebruik de quick reads om essentiële informatie te krijgen over opkomende techn
 
 
 <sub> Views since 15 april 2024: [![HitCount](https://hits.dwyl.com/robvdw/HR-DATALABS/HR-DataLab-Quick-Reads.svg?style=flat-square)](http://hits.dwyl.com/robvdw/HR-DATALABS/HR-DataLab-Quick-Reads) <sub>
-#### Unique visitors since 15 april 2024: [![HitCount](https://hits.dwyl.com/robvdw/HR-DATALABS/HR-DataLab-Quick-Reads.svg?style=flat-square&show=unique)](http://hits.dwyl.com/robvdw/HR-DATALABS/HR-DataLab-Quick-Reads)
+<sub>  Unique visitors since 15 april 2024: [![HitCount](https://hits.dwyl.com/robvdw/HR-DATALABS/HR-DataLab-Quick-Reads.svg?style=flat-square&show=unique)](http://hits.dwyl.com/robvdw/HR-DATALABS/HR-DataLab-Quick-Reads) <sub>
  
  
 
