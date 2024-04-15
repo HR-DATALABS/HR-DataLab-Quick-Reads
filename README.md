@@ -1,7 +1,7 @@
 # Wat-je-moet-weten-over-DataLabs
 <img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/u/115706761?s=400&u=7c6cae892816e172b0b7eef99f2d32adb948c6ad&v=4">
 AI & Ethiek Quick-Reads is een serie handouts over de digitale transitie van Hogeschool Rotterdam. <br />
-Gebruik de quick reads om essentiële informatie te krijgen over opkomende technologieën en praktijken inclusief mogelijke implicaties en kansen. 
+Gebruik de quick reads om essentiële informatie te krijgen over state-of-the-art informatietechnologie & datawetenschappen. 
 
 <br />
 <br />
